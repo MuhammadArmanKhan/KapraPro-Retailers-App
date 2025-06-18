@@ -32,14 +32,6 @@ Running the App
 
 App Structure
 
-KapraPro-Retailers-App/
-├── app/                   # Main application screens
-│   ├── (tabs)/           # Tab-based navigation screens
-│   └── ...               # Other screens
-├── assets/               # Images and static assets
-├── components/           # Reusable UI components
-├── contexts/             # React Context providers
-└── hooks/               # Custom React hooks
 
 Built With
 - [React Native](https://reactnative.dev/) - Mobile app framework
