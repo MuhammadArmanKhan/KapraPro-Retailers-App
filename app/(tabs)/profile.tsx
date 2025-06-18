@@ -38,8 +38,8 @@ export default function ProfileScreen() {
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
         <View style={styles.header}>
           <View style={styles.avatarContainer}>
-            <View style={styles.avatar}>
-              <User size={40} color="#FFF" />
+          <View style={styles.avatar}>
+            <User size={40} color="#FFF" />
             </View>
             <TouchableOpacity style={styles.editButton} onPress={handleEditProfile}>
               <Edit2 size={20} color="#FFF" />
